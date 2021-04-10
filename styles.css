@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 body {
-  background-color: pink;
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 }
 
 h1 {
   color: red;
+  font-family: 'Lobster', cursive; 
 }
